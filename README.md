@@ -170,3 +170,4 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [everything-curl](https://github.com/bagder/everything-curl) - :white_check_mark: The book documenting the curl project, the curl tool, libcurl and everything related to this.
 - [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题
 - [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide) - :white_check_mark: 中文技术文档的写作规范
+- [caicloud / kube-ladder](https://github.com/caicloud/kube-ladder) - 本文档旨在为广大从业者提供一个 Kubernetes 学习路径，为大家提供一定的指引。我们最终的目标是让所有人剥茧抽丝般地了解 Kubernetes，不仅仅知道怎么用 Kubernetes，还知道 Kubernetes 各个功能是如何设计的。在学习路径后期，我们还可以很"自然"的联想到正确的设计思路。
