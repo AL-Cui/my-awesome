@@ -65,6 +65,7 @@ My curated list of awesome tools and libraries which I have used, also a catalog
 - [styleurl-extension](https://github.com/Jarred-Sumner/styleurl-extension) - Share & export CSS tweaks from Chrome instantly.
 - [DIYgod / RSSHub](https://github.com/DIYgod/RSSHub) - 万物皆可 RSS.
 - [awilliam / rom-parser](https://github.com/awilliam/rom-parser) - ROM parser and fixer.
+- [tobert / pcstat](https://github.com/tobert/pcstat) - A common question when tuning databases and other IO-intensive applications is, "is Linux caching my data or not?" pcstat gets that information for you using the mincore(2) syscall.
 
 ## Script/Code snippet
 
